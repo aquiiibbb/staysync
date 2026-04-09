@@ -28,9 +28,9 @@ const SERVICES = [
   },
   {
     icon: '📱',
-    title: 'Android App Development',
-    desc: 'Native Android apps for hotels, service businesses, and startups. Clean UI, functional, and market-ready.',
-    tags: ['Java', 'Kotlin', 'Android Studio'],
+    title: 'Android & iOS App Development',
+    desc: 'Native Android and iOS apps for hotels, service businesses, and startups. Clean UI, functional, and market-ready.',
+    tags: ['React Native', 'Swift', 'Android Studio', 'Xcode'],
   },
   {
     icon: '🤖',
